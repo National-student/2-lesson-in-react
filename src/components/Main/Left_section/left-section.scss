@@ -1,0 +1,24 @@
+
+.left-section {
+    max-width: 250px;
+    background-color: rgba(223, 219, 214, 0.308);
+  }
+  
+  .left-section__list {
+    list-style-type: none;
+    padding-top: 5px;
+    padding-left: 25px;
+  }
+  
+  .left-section__item {
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    margin-bottom: 25px;
+    margin-top: 20px;
+  }
+  
+  .item-text {
+    margin: 0;
+    margin-right: 10px;
+  }
